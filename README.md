@@ -18,7 +18,7 @@ Hello, I'm Muhammad Abdullah, and I'm passionate about the exciting fields of Ma
 
 If you share the same passion for machine learning and IoT or want to collaborate on a project, feel free to reach out to me. Let's connect, learn, and innovate together!
 
-- [LinkedIn]()
+- [LinkedIn](https://www.linkedin.com/in/muhammadabdullahcs/)
 - [Twitter](https://twitter.com/yourhandle)
 - [Email](abdullahcsit1@gmail.com)
 
